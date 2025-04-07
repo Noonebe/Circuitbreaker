@@ -118,3 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(card);
     });
 })
+<a href="deep-tech.html" class="featured-post">
+     <h3>How the World is Diving Deeper into Technology</h3>
+     <p>Exploring the rapid technological integration in modern life...</p>
+   </a>
